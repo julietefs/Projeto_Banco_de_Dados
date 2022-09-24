@@ -1,5 +1,6 @@
 # Projeto de Banco de Dados :woman_technologist: 
 
-#### Desafio de Projeto de modelagem de banco de dados MySQL.
-##### Banco de Dados: Ordem de serviços, Universidade, E-commerce e Oficina.
+### Este Projeto possui modelagem de banco de dados MySQL, com a criação de diagramas relacionais, scripts e queries.
 
+##### -  Projeto Banco de Dados: Esta pasta possui os Bancos; Ordem de serviços, Universidade, E-commerce e Oficina.
+##### -  E-commerce Script: Esta pasta possui o Banco de Dados E-commerce com diagrama e script.
