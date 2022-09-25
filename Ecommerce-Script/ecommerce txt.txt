@@ -29,12 +29,11 @@ show table clients;
 
 
 /* inserindo dados clientes*/
-insert into clients
-	values(1,'Carina','Mel','Santos','15478963245','Rua sapucaia do sul, MG'),
-	      (2, 'João','Gon','Barcellos','45698712365','Av Gondim, PB'),
-	      (3, 'Werner','Heu','Malta','12352587469','Rua Tavora de Almeida, RJ'),
-	      (4, 'Maria','Cla','Silva','653989674','Rua Agamenon Magalhães,PE'),
-	      (5, 'Ricardo','Cam','Oliveira','78549632456','Av Mon. Julio Maria,SP');
+insert into clients values(1,'Carina','Mel','Santos','15478963245','Rua sapucaia do sul, MG');
+insert into clients values (2, 'João','Gon','Barcellos','45698712365','Av Gondim, PB');
+insert into clients values (3, 'Werner','Heu','Malta','12352587469','Rua Tavora de Almeida, RJ');
+insert into clients values (4, 'Maria','Cla','Silva','653989674','Rua Agamenon Magalhães,PE');
+insert into clients values (5, 'Ricardo','Cam','Oliveira','78549632456','Av Mon. Julio Maria,SP');
 
 select * from clients;
 
